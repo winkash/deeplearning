@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+tensorflow-estimator==2.13.0
+tensorflow-intel==2.13.0
+tensorflow-io-gcs-filesystem==0.31.0
+tensorflow-recommenders==0.7.3
+torch==2.2.1
