@@ -9,5 +9,7 @@ Cross Network. This is the core of DCN. It explicitly applies feature crossing a
 
 Deep Network. It is a traditional feedforward multilayer perceptron (MLP).
 
+![alt_text](https://camo.githubusercontent.com/f59de32a658b2f1524975da7d055e870968671e3b68c5d38179e97b0d8f523ca/687474703a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3157744455435636622d656574556e575643416d635068386d4a46757435455564)
+
 
 
